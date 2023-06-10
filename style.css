@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.main {
+    width: 1000px;
+    background-color: aqua;
+}
+
+.container-dog {
+width: 300px;
+
+
+}
+
+p {
+    width: 100%;
+}
